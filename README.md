@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Сергей 👋
 
-<!--
-**DataKhab/DataKhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Обо мне
+Кандидат физико-математических наук с опытом аналитики более 20 лет. Специализируюсь на бизнес-анализе, Data Science и построении рекомендательных систем.
 
-Here are some ideas to get you started:
+### 🛠️ Мои компетенции
+- **Анализ данных:** SQL (DuckDB), Python (pandas, seaborn,Matplotlib? sklearn)
+- **Визуализация:** Power BI, Loginom, Looker Studio, DataLens
+- **Бизнес-анализ:** BPMN 2.0, Draw.IO, Business Studio
+- **Data Science:** Рекомендательные системы, машинное обучение (LightGBM, CatBoost)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Мои проекты
+Здесь я собираю проекты по анализу данных, бизнес-моделированию и машинному обучению.
+
+### 📫 Как со мной связаться
+- **GitHub:** @DataKhab
+- **Email:** habarov62@mail.ru
