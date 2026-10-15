@@ -11,6 +11,8 @@
 
 ### 📂 Мои проекты
 Здесь я собираю проекты по анализу данных, бизнес-моделированию и машинному обучению.
+Проекты (01-diamonds-price-analysis, 03-business-modeling-projects, 04-recipe-recommendation-system) находятся в папке
+data-analytics-portfolio
 
 ### 📫 Как со мной связаться
 - **GitHub:** @DataKhab
